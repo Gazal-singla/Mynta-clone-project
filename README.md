@@ -1,2 +1,2 @@
-# Mynta-clone-project
-hhiii
+# Mynta-clone-Project
+
