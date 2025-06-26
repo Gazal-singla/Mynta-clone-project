@@ -1,2 +1,2 @@
-# Mynta-clone-Project
+# Mynta-clone
 Using HTML and CSS
